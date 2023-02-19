@@ -1,0 +1,2 @@
+VPN/GlobalProtect/PanGPLinux-6.0.5-c11.tgz filter=lfs diff=lfs merge=lfs -text
+VPN/GlobalProtect/GlobalProtect64-6.0.5.msi filter=lfs diff=lfs merge=lfs -text
